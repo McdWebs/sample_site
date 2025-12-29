@@ -14,7 +14,7 @@ TECH STACK:
 
 BUSINESS DETAILS (use placeholders where needed):
 
-* Business Name: Botwa
+* Business Name: michael halperin
 * Business Type: Messaging automation & customer support via WhatsApp
 * Country: Israel
 * Contact Email: [mcdweb4135@gmail.com](mailto:mcdweb4135@gmail.com)
